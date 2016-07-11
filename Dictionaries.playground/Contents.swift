@@ -24,9 +24,6 @@ for (airportCode, airportName) in airports {
     print("The abbreviation for \(airportName) is \(airportCode)")
 }
 
-
-
-
 let toyStoryFilms = [
     "Toy Story",
     "Toy Story 2",
